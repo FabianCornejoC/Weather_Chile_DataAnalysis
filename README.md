@@ -30,6 +30,3 @@ This project demonstrates the ability to clean, analyze, and visualize real-worl
 📌 Final conclusions and recommendations are summarized in:
 - Conclusiones_Recomendaciones.ipynb
 
-
-![image](https://github.com/FabianCornejoC/Weather_Chile_DataAnalysis/assets/166162140/8fd7b081-3f96-4b3a-b864-25a12dec9452)
-
